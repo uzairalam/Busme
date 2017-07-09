@@ -38,7 +38,7 @@ $conn= mysqli_connect('localhost',$user,$pass,$database);
 	$theID=$_GET['id'];
 $query="select * from busme_Bus where Bus_ID=$theID ";
 $result=mysqli_query($conn,$query);
-
+//Query to return busses of the desired route
 ?>
 	<div id="BusRoutes_Background">
 		<div id="BusRoutes" class="container text-center" >

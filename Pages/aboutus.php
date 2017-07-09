@@ -29,7 +29,7 @@
 <div class="container">
   <div class="jumbotron">
     <h1>BusMe - About the developers </h1>
-    <p>BusMe is the solution for the public sector transport for Karachi.</p>
+    <p>BusMe is the solution for the public sector transport for Karachi.This is the first of a kind in all solutions provided for Karachi,Sindh</p>
 	<h2>Made by AFU Solutions. </h2>
 	<h3> Agha Zarwali - K13-2054 </h3>
 	<h3> Farhan Qasim - K13-2303 </h3>
