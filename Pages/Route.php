@@ -39,6 +39,7 @@ $conn= mysqli_connect('localhost',$user,$pass,$database);
 $query="select * from busme_Bus where Bus_ID=$theID ";
 $result=mysqli_query($conn,$query);
 //Query to return busses of the desired route
+// Monga dihsa 
 ?>
 	<div id="BusRoutes_Background">
 		<div id="BusRoutes" class="container text-center" >
