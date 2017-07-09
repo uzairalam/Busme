@@ -2,7 +2,7 @@
 $user="root";
 $pass="alam";
 $database="BusMe";
-
+// shakti manuu ny jaga dia meko
 
 $conn= mysqli_connect('localhost',$user,$pass,$database);
 
